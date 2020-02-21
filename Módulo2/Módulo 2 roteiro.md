@@ -777,7 +777,7 @@ while(nomesAtributos.hasMoreElements()) {
 http://localhost:8084/TestandoEscopoSessao/ArmazenarNaSessao?nome=Daniel
 ```
 
-   4.2. Exibir as duas sessões e mostrar que são diferentes
+- Exibir as duas sessões e mostrar que são diferentes
 
 ```
 http://localhost:8084/TestandoEscopoSessao/ExibirSessao
