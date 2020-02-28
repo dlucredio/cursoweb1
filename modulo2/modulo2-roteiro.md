@@ -1,4 +1,4 @@
-# Programação para Web - Prof. Daniel Lucrédio
+# Desenvolvimento de Software para Web 1 - Prof. Daniel Lucrédio
 ## Módulo 2 - Exemplos
 
 ### Demonstração 1 - Instalando o Tomcat

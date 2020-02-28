@@ -2,6 +2,9 @@
 
 Neste repositório encontram-se os materiais didáticos da disciplina Desenvolvimento de Software para Web 1, incluindo notas de aula e exemplos de código.
 
+## Configurações e software
+- [Guias rápidos de instalação](software/instalacao.md)
+
 ## Módulo 1
 
 - [Notas de aula](modulo1/modulo1-notasdeaula.pdf)
